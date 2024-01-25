@@ -267,7 +267,7 @@
 			// one section, one slide
 			document.getElementsByTagName('section')[i].setAttribute("id", "slide-"+(i+1));
 			// add author name 
-			document.getElementsByTagName('author')[i].innerHTML="<img src=\"/dAYBrEAk logo.png\" class=\"h-[4vh] pr-[0.5vh]\" > "+author ;
+			document.getElementsByTagName('author')[i].innerHTML="<img src=\"/idp-slides/dAYBrEAk logo.png\" class=\"h-[4vh] pr-[0.5vh]\" > "+author ;
 			// add title 
 			document.getElementsByTagName('mytitle')[i].innerHTML="<a href=\"#slide-1\">"+title+": Evaluation"+"</a>";
 			// show slide number with total slide number
