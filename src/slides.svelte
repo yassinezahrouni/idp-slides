@@ -65,7 +65,7 @@
 				document.getElementById("mytitle").innerHTML=title;
 				document.getElementById("mysubtitle").innerHTML=subtitle;
 				document.getElementById("myname").innerHTML="Team "+author;
-				document.getElementById("myuni").innerHTML=department+"<br>"+university;
+				document.getElementById("myuni").innerHTML=university;
 				let today = new Date(); 
 				document.getElementById("mydate").innerHTML=today.toISOString().split('T')[0]; 
 			</script>
