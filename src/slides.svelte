@@ -148,21 +148,74 @@
 	</Layout></Slide>
 
 	<script> newChapter("Iteration 2: Ideation"); </script>
-	<Slide>
-		<Layout>
+	<Slide><Layout>
 			<div class="titlebar">
 				How to implement the changes
 			</div>
 		<div class="pt-[10vh]">
 			<ul class="a">
 				<li>Convert physical parts of prototype into virtual version. </li><br>
-				<li>Online version, accessed everywhere. </li><br>
+				<li>Online version, accessed everywhere: click 
+					<a href="https://www.figma.com/proto/3opdful8Js140VPQ0GglFL/Berkay-Geyik's-team-library?type=design&node-id=2316-739&t=lLxNp0QvCXC0mPqP-1&scaling=contain&page-id=0%3A1&starting-point-node-id=2316%3A739&mode=design" target="_blank"
+						class="text-green-600 u">
+						here</a>
+					to open. 
+				</li>
+				<br>
 				<li>Implemente multi-lingual interface. </li><br>
 			</ul>
 		</div>
 	</Layout></Slide>
 	
 	<script>newChapter("Iteration 3: Prototyping");</script>
+	<Slide><Layout>
+		<div class="titlebar">
+			Implementing the changes: Physical parts into virtual version
+		</div>
+			<img src="/idp-slides/virtual.png" alt="virtual" class="h-[70vh] mx-auto my-[3vh]">
+	</Layout></Slide>
+
+	<Slide><Layout>
+		<div class="titlebar">
+			Implementing the changes: Online version, accessed everywhere
+		</div>
+		<br>
+		<ul class="a">
+			<li>Online version, accessed everywhere: click 
+				<a href="https://www.figma.com/proto/3opdful8Js140VPQ0GglFL/Berkay-Geyik's-team-library?type=design&node-id=2316-739&t=lLxNp0QvCXC0mPqP-1&scaling=contain&page-id=0%3A1&starting-point-node-id=2316%3A739&mode=design" target="_blank"
+					class="text-green-600 u">
+					here</a>
+				to open. 
+			</li>
+		</ul>
+		<figure class="w-[45vw] float-left ml-[5vh] mt-[5vh]">
+			<img src="/idp-slides/virtual.png" alt="virtual" class="h-[30vh] mx-auto my-[3vh]">
+			<figcaption>Screen on the robot</figcaption>
+		</figure>
+		<figure class="w-[45vw] float-right mr-[5vh] mt-[5vh]">
+			<div class="flex mx-[10vh]">
+				<img src="/idp-slides/english.png" alt="app" class="h-[30vh] my-[3vh] mx-[5vh] ">
+				<img src="/idp-slides/figma-tama.png" alt="app" class="h-[30vh] my-[3vh] mx-[5vh]">
+			</div>
+		<figcaption>App on your phone</figcaption>
+		</figure>
+	</Layout></Slide>
+
+	<Slide><Layout>
+		<div class="titlebar">
+			Implementing the changes: Multi-lingual interface
+		</div>
+		<div class="pt-[1vh]">
+			<ul class="a">
+				<li>Implemente multi-lingual interface. </li><br>
+			</ul>
+			<figure class="mx-auto w-[45vw]">
+				<img src="/idp-slides/french.png" alt="french" class="h-[50vh] mx-auto my-[1vh]">
+				<figcaption>French menu</figcaption>
+			</figure>
+		</div>
+	</Layout></Slide>
+
 	<Slide>
 		<Layout>
 			<Notes> 
@@ -175,7 +228,9 @@
 			</div>
 			<br>
 			<ul class="a">
-				<li>Slogan: Every bot is fixable with Fix-a-bot. </li>
+				<li>Name: <img style="display:inline" src="/idp-slides/product-logo.png" alt="logo">
+				</li> <br>
+				<li style="font-style:italic"> Slogan: Every bot is fixable with Fix-a-bot. </li>
 			</ul>
 			<ul class="a">
 				<li>Features:  </li>
@@ -360,6 +415,18 @@
 		}
 		ul li {
 			color: black;
+		}
+		figure {
+			border: 1px #cccccc solid;
+			padding: 4px;
+			margin: auto;
+		}
+		figcaption {
+			background-color: rgb(242,242,242);
+			color: black;
+			font-style: italic;
+			padding: 2px;
+			text-align: center;
 		}
 	</style>
 </Presentation>
