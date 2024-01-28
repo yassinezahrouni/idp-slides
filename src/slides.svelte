@@ -156,7 +156,7 @@
 			<ul class="a">
 				<li>Convert physical parts of prototype into virtual version. </li><br>
 				<li>Online version, accessed everywhere: click 
-					<a href="https://www.figma.com/proto/3opdful8Js140VPQ0GglFL/Berkay-Geyik's-team-library?type=design&node-id=2316-739&t=lLxNp0QvCXC0mPqP-1&scaling=contain&page-id=0%3A1&starting-point-node-id=2316%3A739&mode=design" target="_blank"
+					<a href="https://www.figma.com/proto/Tim91iIaLVHV2bRLRc7HO7/Berkay-Geyik's-team-library-(Copy)?type=design&node-id=2316-739&t=egjcOFyxlofHQm0t-1&scaling=contain&page-id=0%3A1&starting-point-node-id=3538%3A636" target="_blank"
 						class="text-green-600 u">
 						here</a>
 					to open. 
