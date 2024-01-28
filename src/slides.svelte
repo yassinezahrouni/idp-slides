@@ -316,15 +316,49 @@ For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CAN
 					<li>On the prototype in general</li>
 					<li>On the description in case solution is found</li>
 				</ul>
+				<br>
 				<li>The app should be easily accessible so users can familiarize with it regularly. </li>
+				<br>
 				<li>Implement notification system in case of problems. </li>
-				<li>There should be a big emergency button on the on-bot screen. </li>
-				<li>More signs of robot asking for help, e.g. red blinking lights, animation on the screen...</li>
-				<li></li>
+				<br>
 			</ul>
 
 		</Layout>
 	</Slide>
+
+	<Slide><Layout>
+		<div class="titlebar">
+			Evaluation results
+		</div>
+		<br>
+		<ul class="a">
+			<li>There should be a big emergency button on the on-bot screen. </li>
+			<br>
+			<li>More signs of robot asking for help, e.g. red blinking lights, animation on the screen...</li>
+			<br>
+			<li>Suggested some more commonly seen errors:</li>
+				<ul class="b">
+					<li>EMERGENCY BUTTON ACTIVATION</li>
+					<!-- <img src="https://plc-trade.com/pub/20621/3su1100-1hb20-1cg0.jpg" alt="error" class="h-[20vh]"> -->
+					<br>
+					<li>LOST LOCATION</li>
+				</ul>
+		</ul>
+	</Layout></Slide>
+	<Slide><Layout>
+		<div class="titlebar">
+			Evaluation results
+		</div>
+		<br>
+		<ul class="a">
+			<li>From Yacine's evaluations</li>
+				<ul class="b">
+					<li></li>
+					<br>
+					<li></li>
+				</ul>
+		</ul>
+	</Layout></Slide>
 	
 	<Slide><Layout>
 			<div class="titlebar">
@@ -339,6 +373,8 @@ For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CAN
 				<li> Notification push in case of problems. </li>
 				<br>
 				<li> Emergency button on the main screen. </li>
+				<br>
+				<li>...</li>
 			</ul>
 	</Layout></Slide>
 
