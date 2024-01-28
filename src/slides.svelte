@@ -323,6 +323,19 @@ For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CAN
 	</Slide>
 	
 	<Slide><Layout>
+			<div class="titlebar">
+				Possible improvements
+			</div>
+			<br>
+			<ul class="a">
+				<li> Improvement 1. </li>
+				<li> Improvement 2. </li>
+				<li> Improvement 3. </li>
+				<li> Improvement 4. </li>
+			</ul>
+	</Layout></Slide>
+
+	<Slide><Layout>
 		<br>
 		<img class="h-[60vh] mx-auto " src="https://media1.tenor.com/m/ktsa9WrPiKgAAAAC/friends-chandler-funny.gif" alt="dance">
 		<br><div> Thank you! </div>
