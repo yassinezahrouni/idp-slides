@@ -209,9 +209,12 @@
 			<ul class="a">
 				<li>Implemente multi-lingual interface. </li><br>
 			</ul>
-			<figure class="mx-auto w-[45vw]">
-				<img src="/idp-slides/french.png" alt="french" class="h-[50vh] mx-auto my-[1vh]">
-				<figcaption>French menu</figcaption>
+			<figure class="w-[80vw]">
+				<div class="flex mx-[2vh]">
+					<img src="/idp-slides/virtual-fr.png" alt="french" class="h-[50vh] ml-[1vh]">
+					<img src="/idp-slides/french.png" alt="french" class="h-[50vh]  ml-[10vh]">
+				</div>
+			<figcaption>French menu</figcaption>
 			</figure>
 		</div>
 	</Layout></Slide>
@@ -228,7 +231,7 @@
 			</div>
 			<br>
 			<ul class="a">
-				<li>Name: <img style="display:inline" src="/idp-slides/product-logo.png" alt="logo">
+				<li>Name: <img style="display:inline; height:5vh" src="/idp-slides/product-logo.png" alt="logo">
 				</li> <br>
 				<li style="font-style:italic"> Slogan: Every bot is fixable with Fix-a-bot. </li>
 			</ul>
@@ -277,7 +280,12 @@
 			</div>
 			<br>
 			<ul class="a">
-				<li>5 interviewees: suitable user known from (previous) work; people recommended by our previous interviewees of iteration 1. </li>
+				<li>5 interviewees: 
+				<ul class="b"> 
+					<li>suitable user known from (previous) work experience</li> 
+					<br>
+					<li>people recommended by our previous interviewees of iteration 1</li>
+				</ul>
 			</ul>
 		</Layout>
 	</Slide>
@@ -302,21 +310,17 @@ In the "Maintenance" section: Add photos of the general external cleaning of the
 Of course, the robot we are talking about is an AGV, so if you want to know more about the regulations it must comply with, you can refer to this document that briefly summarizes the most important things. Perhaps you are only interested in the chapters "Essential Safety Requirements" and "Maintenance Procedures" https://thesis.unipd.it/retrieve/787d3f0b-0c3d-4e60-9258-c0ca3fab4b92/Tonin_Alessandro.pdf
 For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CANU&ab_channel=OmronAutomation-Americas
 			</Notes>
-
 			<ul class="a">
-				- Is your idea a realistic solution to your problem?
-			</ul>
-			<ul class="a">
-				- Does your solution answer the HMW-Question?
-			</ul>
-			<ul class="a">
-				- Is your solution really new?
-			</ul>
-			<ul class="a">
-				- Is your solution really true?
-			</ul>
-			<ul class="a">
-				- Does your solution really matter?
+				<li>There could be more visual aides (e.g. images). </li>
+				<ul class="b"> 
+					<li>On the prototype in general</li>
+					<li>On the description in case solution is found</li>
+				</ul>
+				<li>The app should be easily accessible so users can familiarize with it regularly. </li>
+				<li>Implement notification system in case of problems. </li>
+				<li>There should be a big emergency button on the on-bot screen. </li>
+				<li>More signs of robot asking for help, e.g. red blinking lights, animation on the screen...</li>
+				<li></li>
 			</ul>
 
 		</Layout>
@@ -328,10 +332,13 @@ For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CAN
 			</div>
 			<br>
 			<ul class="a">
-				<li> Improvement 1. </li>
-				<li> Improvement 2. </li>
-				<li> Improvement 3. </li>
-				<li> Improvement 4. </li>
+				<li> Images, animation, blinking lights... </li>
+				<br>
+				<li> QR code to the app on the main page of on-bot screen. </li>
+				<br>
+				<li> Notification push in case of problems. </li>
+				<br>
+				<li> Emergency button on the main screen. </li>
 			</ul>
 	</Layout></Slide>
 
