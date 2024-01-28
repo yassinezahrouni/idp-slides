@@ -118,7 +118,7 @@
 			<ul class="a"> 
 				<li>Our solution: </li>
 				<ul class="b">
-					<li>Diagnostic AI to ease problem-finding</li>
+					<li>Diagnostic AI to ease problem and finding</li>
 					<li>Remote assistance in case expert help is needed</li>
 					<li>Gamification to make the robot more approachable</li>
 				</ul>
