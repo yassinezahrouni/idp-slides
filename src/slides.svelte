@@ -130,7 +130,7 @@
 	<Slide>
 		<Layout>
 			<div class="titlebar">
-				Takeaways from the last evaluation
+				Takeaways from the evaluation of iteration 3 (prototype)
 			</div>
 			<div class="pt-[5vh] ">
 				<ul class="a">
@@ -287,6 +287,21 @@
 			<div class="titlebar">
 				Evaluation results
 			</div>
+			<Notes>
+				Feedbacks on the prototype: 
+This person works with non-expert employees, trying to help them gain confidence with the robot. He is not our user group, but he sees every day how non-expert employees approach problems (we don't have to say that, it is just for you guys).
+General feedback: There is a lack of images everywhere. If your user group is non-expert employees, you will need to treat them like children. So, put more signs and images almost everywhere.
+Feedback 1: You should start showing your prototype with the QR that enables the user to download the app and let the user open the app and experience this part before showing what to do in case of problems. For me, your prototype was a good idea, but I think you should add the possibility of getting a notification if a problem is found so that employees can receive the message from any part of the company.
+Feedback 2: The screen on the robot needs always an emergency button that you can click in case of an emergency.
+Feedback 3: Add more 'Help me' notifications or signs on the app and on the screen! When the robot stops, add an animation on the main screen of the robot asking for help with a comic bubble. If the robot is equipped with warning lights, make a red lamp flash. Your prototype gave me the idea that the problem was a normal thing to encounter.
+Feedback 4: Small error that we've encountered:
+In the section where errors are displayed, it is better to always add images with a detailed description of the solution. The most common errors may include:
+EMERGENCY BUTTON ACTIVATION (https://plc-trade.com/pub/20621/3su1100-1hb20-1cg0.jpg)
+LOST LOCATION, use manually programmed RELOCATION POINTS on the virtual map and physically mark them on the floor with stickers. Then, physically bring the robot to that point and click on the touchscreen monitor on the name of the point where it is located. Usually when a company sells you a robot you have to mapp the area. They suggest you to put some relocations points on particular locations, so that if a robot get lost you can bring it to one of these points and restart it from there 
+In the "Maintenance" section: Add photos of the general external cleaning of the casing, wheels, and sensors using specific sprays and microfiber cloths to avoid scratching them (example of sensors https://www.sick.com/it/it/prodotti-e-soluzioni/prodotti/sensori-lidar-e-radar/sensori-lidar/c/g575802)
+Of course, the robot we are talking about is an AGV, so if you want to know more about the regulations it must comply with, you can refer to this document that briefly summarizes the most important things. Perhaps you are only interested in the chapters "Essential Safety Requirements" and "Maintenance Procedures" https://thesis.unipd.it/retrieve/787d3f0b-0c3d-4e60-9258-c0ca3fab4b92/Tonin_Alessandro.pdf
+For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CANU&ab_channel=OmronAutomation-Americas
+			</Notes>
 
 			<ul class="a">
 				- Is your idea a realistic solution to your problem?
