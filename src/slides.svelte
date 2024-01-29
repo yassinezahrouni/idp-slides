@@ -190,7 +190,7 @@
 		</figure>
 		<figure class="w-[45vw] float-right mr-[5vh] mt-[5vh]">
 			<div class="flex mx-[10vh]">
-				<img src="/idp-slides/english.png" alt="app" class="h-[30vh] my-[3vh] mx-[5vh] ">
+				<img src="/idp-slides/english.jpeg" alt="app" class="h-[30vh] my-[3vh] mx-[5vh] ">
 				<img src="/idp-slides/figma-tama.png" alt="app" class="h-[30vh] my-[3vh] mx-[5vh]">
 			</div>
 		<figcaption>App on your phone</figcaption>
@@ -208,7 +208,7 @@
 			<figure class="w-[80vw]">
 				<div class="flex mx-[2vh]">
 					<img src="/idp-slides/virtual-fr.png" alt="french" class="h-[50vh] ml-[1vh]">
-					<img src="/idp-slides/french.png" alt="french" class="h-[50vh]  ml-[10vh]">
+					<img src="/idp-slides/french.jpeg" alt="french" class="h-[50vh]  ml-[10vh]">
 				</div>
 			<figcaption>French menu</figcaption>
 			</figure>
