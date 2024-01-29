@@ -155,11 +155,7 @@
 		<div class="pt-[10vh]">
 			<ul class="a">
 				<li>Convert physical parts of prototype into virtual version. </li><br>
-				<li>Online version, accessed everywhere: click 
-					<a href="https://www.figma.com/proto/Tim91iIaLVHV2bRLRc7HO7/Berkay-Geyik's-team-library-(Copy)?type=design&node-id=2316-739&t=egjcOFyxlofHQm0t-1&scaling=contain&page-id=0%3A1&starting-point-node-id=3538%3A636" target="_blank"
-						class="text-green-600 u">
-						here</a>
-					to open. 
+				<li>Online version, accessed everywhere. 
 				</li>
 				<br>
 				<li>Implemente multi-lingual interface. </li><br>
@@ -182,8 +178,8 @@
 		<br>
 		<ul class="a">
 			<li>Online version, accessed everywhere: click 
-				<a href="https://www.figma.com/proto/3opdful8Js140VPQ0GglFL/Berkay-Geyik's-team-library?type=design&node-id=2316-739&t=lLxNp0QvCXC0mPqP-1&scaling=contain&page-id=0%3A1&starting-point-node-id=2316%3A739&mode=design" target="_blank"
-					class="text-green-600 u">
+				<a href="https://www.figma.com/proto/Tim91iIaLVHV2bRLRc7HO7/Berkay-Geyik's-team-library-(Copy)?type=design&node-id=2316-739&t=egjcOFyxlofHQm0t-1&scaling=contain&page-id=0%3A1&starting-point-node-id=3538%3A636" target="_blank"
+					class="text-green-600" style="text-decoration-line: underline;">
 					here</a>
 				to open. 
 			</li>
@@ -233,7 +229,7 @@
 			<ul class="a">
 				<li>Name: <img style="display:inline; height:5vh" src="/idp-slides/product-logo.png" alt="logo">
 				</li> <br>
-				<li style="font-style:italic"> Slogan: Every bot is fixable with Fix-a-bot. </li>
+				<li > Slogan: <span style="font-style:italic">Every bot is fixable with Fix-a-bot.</span> </li>
 			</ul>
 			<ul class="a">
 				<li>Features:  </li>
@@ -242,12 +238,15 @@
 					<li>Remote assistance with AR support on your phone </li>
 					<li>Virtual robot pet for increased intimacy </li>
 				</ul>
+			<br>
+			<li><a href="https://www.figma.com/proto/3opdful8Js140VPQ0GglFL/Berkay-Geyik's-team-library?type=design&node-id=2316-739&t=lLxNp0QvCXC0mPqP-1&scaling=contain&page-id=0%3A1&starting-point-node-id=2316%3A739" target="_blank" style="text-decoration-line:underline;" class="text-green-600">
+				Short demo</a> 
+				(<a href="https://www.figma.com/proto/IQ9UOg3RXt04rdCrNvxzZd/DiagnosticAI%2BARremoteassist-(english)?type=design&node-id=4-118&t=zUGlvzDJKeCfoxvi-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A118&show-proto-sidebar=1"target="_blank" style="text-decoration-line:underline;">
+					link to QR</a>)
+			</li>
 			</ul>
+	</Layout></Slide>
 
-
-
-		</Layout>
-	</Slide>
 	<Slide>
 		<Layout>
 			<div class="titlebar">
@@ -289,27 +288,25 @@
 			</ul>
 		</Layout>
 	</Slide>
-		
+	<Slide><Layout>
+		<div class="titlebar">
+			Evaluation results: positives
+		</div>
+		<ul class="a">
+			<br>
+			<li>In general, good idea. </li>
+			<br>
+			<li>Seems user friendly and easy to use.</li> <br>
+			<li>Actually should help them reduce dependency on experts and solve problems quickly. </li><br>
+			<li>Mobile app that runs diagnostic AI removely is helpful. </li>
+		</ul>
+	</Layout></Slide>
 	<Slide>
 		<Layout>
 			<div class="titlebar">
-				Evaluation results
+				Evaluation results: improvements
 			</div>
-			<Notes>
-				Feedbacks on the prototype: 
-This person works with non-expert employees, trying to help them gain confidence with the robot. He is not our user group, but he sees every day how non-expert employees approach problems (we don't have to say that, it is just for you guys).
-General feedback: There is a lack of images everywhere. If your user group is non-expert employees, you will need to treat them like children. So, put more signs and images almost everywhere.
-Feedback 1: You should start showing your prototype with the QR that enables the user to download the app and let the user open the app and experience this part before showing what to do in case of problems. For me, your prototype was a good idea, but I think you should add the possibility of getting a notification if a problem is found so that employees can receive the message from any part of the company.
-Feedback 2: The screen on the robot needs always an emergency button that you can click in case of an emergency.
-Feedback 3: Add more 'Help me' notifications or signs on the app and on the screen! When the robot stops, add an animation on the main screen of the robot asking for help with a comic bubble. If the robot is equipped with warning lights, make a red lamp flash. Your prototype gave me the idea that the problem was a normal thing to encounter.
-Feedback 4: Small error that we've encountered:
-In the section where errors are displayed, it is better to always add images with a detailed description of the solution. The most common errors may include:
-EMERGENCY BUTTON ACTIVATION (https://plc-trade.com/pub/20621/3su1100-1hb20-1cg0.jpg)
-LOST LOCATION, use manually programmed RELOCATION POINTS on the virtual map and physically mark them on the floor with stickers. Then, physically bring the robot to that point and click on the touchscreen monitor on the name of the point where it is located. Usually when a company sells you a robot you have to mapp the area. They suggest you to put some relocations points on particular locations, so that if a robot get lost you can bring it to one of these points and restart it from there 
-In the "Maintenance" section: Add photos of the general external cleaning of the casing, wheels, and sensors using specific sprays and microfiber cloths to avoid scratching them (example of sensors https://www.sick.com/it/it/prodotti-e-soluzioni/prodotti/sensori-lidar-e-radar/sensori-lidar/c/g575802)
-Of course, the robot we are talking about is an AGV, so if you want to know more about the regulations it must comply with, you can refer to this document that briefly summarizes the most important things. Perhaps you are only interested in the chapters "Essential Safety Requirements" and "Maintenance Procedures" https://thesis.unipd.it/retrieve/787d3f0b-0c3d-4e60-9258-c0ca3fab4b92/Tonin_Alessandro.pdf
-For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CANU&ab_channel=OmronAutomation-Americas
-			</Notes>
+			<br>
 			<ul class="a">
 				<li>There could be more visual aides (e.g. images). </li>
 				<ul class="b"> 
@@ -328,7 +325,7 @@ For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CAN
 
 	<Slide><Layout>
 		<div class="titlebar">
-			Evaluation results
+			Evaluation results: improvements
 		</div>
 		<br>
 		<ul class="a">
@@ -349,14 +346,18 @@ For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CAN
 		<div class="titlebar">
 			Evaluation results
 		</div>
-		<br>
 		<ul class="a">
-			<li>From Yacine's evaluations</li>
-				<ul class="b">
-					<li></li>
-					<br>
-					<li></li>
-				</ul>
+			<li>Icons in tamabotchi are confusing. </li> <br>
+			<li>Holding the phone during remote assistance is tiring. </li> <br>
+			<li>Cost of AR glasses might be high for clients. </li> <br>
+			<li>Maintainance routine could instead be: </li>
+			<ul class="b">
+				<li>Regular maintenances that should be done</li>
+				<li>When the expert was on site and what they did</li>
+				<li>Errors and their solutions that do not need the diagnostic ai </li>
+			</ul>
+			<br>
+			<li>Icon to select language could be bigger</li>
 		</ul>
 	</Layout></Slide>
 	
@@ -364,7 +365,6 @@ For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CAN
 			<div class="titlebar">
 				Possible improvements
 			</div>
-			<br>
 			<ul class="a">
 				<li> Images, animation, blinking lights... </li>
 				<br>
@@ -374,13 +374,49 @@ For example, this is the brand we use https://www.youtube.com/watch?v=jRTc695CAN
 				<br>
 				<li> Emergency button on the main screen. </li>
 				<br>
+				<li> Modify icons on all parts of the prototype. </li>
+				<br>
+				<li>Modify maintainance contents. </li> <br>
 				<li>...</li>
 			</ul>
+	</Layout></Slide>
+	<Slide><Layout>
+		<div class="titlebar">
+			First attempts to implement some improvements (ongoing)
+		</div>
+		<br>
+		<div class="flex mx-[2vh]">
+			<figure class="w-[40vw] mt-[10vh]">
+				<img src="/idp-slides/virtual-new.png" alt="french" class="h-[50vh]">
+				<!-- <img src="/idp-slides/english-new.png" alt="french" class="h-[50vh]  ml-[10vh]"> -->
+			</figure>
+			<figure class="w-[40vw] mt-[10vh]">
+				<div class="flex mx-[2vh]">
+					<!-- <img src="/idp-slides/virtual-new.png" alt="french" class="h-[50vh] ml-[1vh]"> -->
+					<img src="/idp-slides/english-new.png" alt="french" class="h-[50vh]  ml-[10vh]">
+				</div>
+			</figure>
+		</div>
+	</Layout></Slide>
+
+
+	<script>newChapter("Summary");</script>
+	<Slide><Layout>
+		<div class="titlebar">
+			Summary
+		</div>
+		<br>
+		<ul class="a">
+			<li>All in all, good idea, good interface. </li> <br>
+			<li>Actually helps to solve the problem </li> <br>
+			<li>But still a lot of potential for improvements</li> <br>
+		</ul>
+
 	</Layout></Slide>
 
 	<Slide><Layout>
 		<br>
-		<img class="h-[60vh] mx-auto " src="https://media1.tenor.com/m/ktsa9WrPiKgAAAAC/friends-chandler-funny.gif" alt="dance">
+		<img class="h-[60vh] mx-auto mt-[5vh]" src="https://media1.tenor.com/m/ktsa9WrPiKgAAAAC/friends-chandler-funny.gif" alt="dance">
 		<br><div> Thank you! </div>
 	</Layout></Slide>
 
