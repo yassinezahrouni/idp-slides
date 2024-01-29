@@ -158,7 +158,7 @@
 				<li>Online version, accessed everywhere. 
 				</li>
 				<br>
-				<li>Implemente multi-lingual interface. </li><br>
+				<li>Implement multi-lingual interface. </li><br>
 			</ul>
 		</div>
 	</Layout></Slide>
@@ -203,7 +203,7 @@
 		</div>
 		<div class="pt-[1vh]">
 			<ul class="a">
-				<li>Implemente multi-lingual interface. </li><br>
+				<li>Implement multi-lingual interface. </li><br>
 			</ul>
 			<figure class="w-[80vw]">
 				<div class="flex mx-[2vh]">
