@@ -350,7 +350,7 @@
 			<li>Icons in tamabotchi are confusing. </li> <br>
 			<li>Holding the phone during remote assistance is tiring. </li> <br>
 			<li>Cost of AR glasses might be high for clients. </li> <br>
-			<li>Maintainance routine could instead be: </li>
+			<li>Maintenance routine could instead be: </li>
 			<ul class="b">
 				<li>Regular maintenances that should be done</li>
 				<li>When the expert was on site and what they did</li>
@@ -376,7 +376,7 @@
 				<br>
 				<li> Modify icons on all parts of the prototype. </li>
 				<br>
-				<li>Modify maintainance contents. </li> <br>
+				<li>Modify maintenance contents. </li> <br>
 				<li>...</li>
 			</ul>
 	</Layout></Slide>
