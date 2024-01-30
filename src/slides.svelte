@@ -335,10 +335,10 @@
 			<br>
 			<li>Suggested some more commonly seen errors:</li>
 				<ul class="b">
-					<li>EMERGENCY BUTTON ACTIVATION</li>
+					<li>Emergency button activation.</li>
 					<!-- <img src="https://plc-trade.com/pub/20621/3su1100-1hb20-1cg0.jpg" alt="error" class="h-[20vh]"> -->
 					<br>
-					<li>LOST LOCATION</li>
+					<li>Lost location.</li>
 				</ul>
 		</ul>
 	</Layout></Slide>
